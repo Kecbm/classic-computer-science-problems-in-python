@@ -1,7 +1,7 @@
 # Fibonacci Sequence
 
 # Applying the base case: the first two numbers are 0 and 1
-# The sum for this numbers is forever 2
+# The sum for this numbers is forever 1
 
 def fib2(n : int) -> int:
     if n < 2: # base case

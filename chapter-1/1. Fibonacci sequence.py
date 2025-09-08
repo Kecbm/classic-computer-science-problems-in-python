@@ -17,4 +17,4 @@ if __name__ == "__main__":
 
 # Example of infinity recursion
 # def f():
-#     f()
+#     f() + f()

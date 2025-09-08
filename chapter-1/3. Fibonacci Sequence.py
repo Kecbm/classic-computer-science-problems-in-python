@@ -18,10 +18,10 @@ def fib3(n: int) -> int:
 
     return memo[n]
 
-# ow, we can execute fib3(50) without any problem
+# Now, we can execute fib3(50) without any problem
 
 if __name__ == "__main__":
     print(fib3(50))
 
 # one call of fib3(20) results in 39 executions of fib3(20)
-# one call of fib3(20) results in 21.891 executions of fib3(20) 🔥
+# one call of fib2(20) results in 21.891 executions of fib2(20) 🔥
