@@ -1,6 +1,6 @@
 # Fibonacci Sequence
          
-# Automatic memoization with decorator: @functtools.lru_cache()
+# Automatic memoization with decorator: @functools.lru_cache()
 
 from functools import lru_cache
 
